@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AnimationEvents.cs">
+    <Files>
+      <File FileName="Assets\AnimationEvents.cs" Line="16" Column="53" />
+      <File FileName="Assets\FadeObjectInOut.cs" Line="143" Column="1" />
+      <File FileName="Assets\HideCanvas.cs" Line="9" Column="28" />
+      <File FileName="Assets\EnterToQuit.cs" Line="11" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
